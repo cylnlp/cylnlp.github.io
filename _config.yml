@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Ziyi Yang"
+locale                   : "en-UK"
+title                    : "Yulong Chen"
 title_separator          : "-"
-name                     : &name "Ziyi Yang"
+name                     : &name "Yulong Chen"
 description              : &description "personal description"
-url                      : https://ziyi-yang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cylnlp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ziyi-yang/ziyi-yang.github.io"
+repository               : "cylnlp/cylnlp.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ziyi Yang"
+  name             : "Yulong Chen"
   avatar           : "Ziyi_square.jpg"
-  bio              : "Principal Researcher @Microsoft, Stanford Ph.D."
-  googlescholar    : "https://scholar.google.com/citations?user=JkyLIM0AAAAJ&hl=en"
-  github           : "ziyi-yang"
-  twitter          : "yzy_ai"
+  bio              : "Postdoctoral Research Associate @University of Cambridge"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=8P23zSkAAAAJ&hl=en"
+  # github           : "ziyi-yang"
+  twitter          : "Yulongchen1010"
 
 
 # Reading Files
