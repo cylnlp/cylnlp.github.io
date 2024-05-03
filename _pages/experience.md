@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
-* Ph.D. in Mechanical Engineering (minor in Computer Science), Stanford University, 2021. Advisor: Prof. Eric Darve
-* M.S. in Elecrical Engineering, Stanford University, 2018
-* B.S. in Physics (honors), Nanjing University, 2016
+* D.Phil. in Computer Science and Technology, Zhejiang University and Westlake University, 2023. Advisor: Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a>.
+* M.Sc. in Aritificiall Intelligence, The University of Edinburgh, 2018. Advisor: Prof. <a href="https://homepages.inf.ed.ac.uk/bonnie/" style="color: rgb(203, 157, 255);">Bonnie Webber</a>.
+* B.S. in Information Security, Wuhan University, 2017 -->
 
 Mentored Interns/Students
 ======
