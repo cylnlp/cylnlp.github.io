@@ -17,5 +17,5 @@ Email: XYZ, where X=yc632, Y=@ and Z=cam.ac.uk
 
 News
 ======
-* 04/2024: Please check our next <i><a href="https://fever.ai/" style="color: rgb(203, 157, 255);">FEVER workshop</a></i> (at <i><a href="https://2024.emnlp.org/" style="color: rgb(203, 157, 255);">EMNLP 2024</a>) and new shared task!
+* 04/2024: Please check our next <a href="https://fever.ai/" style="color: rgb(203, 157, 255);">FEVER workshop</a>(at <a href="https://2024.emnlp.org/" style="color: rgb(203, 157, 255);">EMNLP 2024</a>) and new shared task!
 

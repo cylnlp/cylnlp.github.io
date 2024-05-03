@@ -9,33 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Education
+Work Experience
 ======
-* D.Phil. in Computer Science and Technology, Zhejiang University and Westlake University, 2023. Advisor: Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a>.
-* M.Sc. in Aritificiall Intelligence, The University of Edinburgh, 2018. Advisor: Prof. <a href="https://homepages.inf.ed.ac.uk/bonnie/" style="color: rgb(203, 157, 255);">Bonnie Webber</a>.
-* B.S. in Information Security, Wuhan University, 2017 -->
+* Jan 2024 - Now: Research Associate
+  * Department of Computer Science and Technology, University of Cambridge
+  * Supervised by Prof. <a href="http://andreasvlachos.github.io" style="color: rgb(203, 157, 255);">Andreas Vlachos</a>.
 
-Mentored Interns/Students
-======
-* [Zineng Tang](https://zinengtang.github.io/), 2022.6-2022.11. Model ranks 1st place on [Document Understand Benchmark](https://duebenchmark.com/leaderboard).
+* Mar 2023 - Sep 2023: Research Intern
+  * Azure Cognitive Service Research Group, Microsoft, mentored by Dr. <a href="https://nlp-yang.github.io/" style="color: rgb(203, 157, 255);">Yang Liu</a> and Dr. <a href="https://ziyi-yang.github.io/" style="color: rgb(203, 157, 255);">Ziyi Yang</a>.
+  * One first-author paper under review.
 
-Work experience
-======
-* 2023.8 - Now: Principal Researcher
-* 2021.7 - 2023.8: Senior Researcher
-  * Microsoft Azure Cognitive Services Research
+* Apr 2022 - Aug 2022: Research Intern
+  * Azure Cognitive Service Research Group, Microsoft, mentored by Dr. <a href="https://nlp-yang.github.io/" style="color: rgb(203, 157, 255);">Yang Liu</a>, Dr. <a href="https://www.cs.cmu.edu/~ruochenx/" style="color: rgb(203, 157, 255);">Ruochen Xu</a>, and Dr. <a href="https://ziyi-yang.github.io/" style="color: rgb(203, 157, 255);">Ziyi Yang</a>.
+  * One first-author paper accepted by ACL 2023.
 
-* 2020.6 - 2020.12: Research Intern
-  * Google AI, mentored by [Yinfei Yang](https://sites.google.com/site/yinfeiyang/) and [Daniel Cer](https://www.ischool.berkeley.edu/people/daniel-cer).
-  * Two first-author papers accepted to EMNLP 2021.
-
-* 2019.6 - 2019.9: Research Intern
-  * Microsoft Speech and Dialogue Research Group, mentored by [Chenguang Zhu](https://cs.stanford.edu/people/cgzhu/).
-  * One first-author paper accepted to EMNLP 2020; One second-author paper accepted to SIGIR 2021.
-
-* 2018.6 - 2018.9: Research Intern
-  * Microsoft Business Applications Group AI Research, mentored by [Chenguang Zhu](https://cs.stanford.edu/people/cgzhu/).
-  * One first-author paper accepted to EMNLP 2019, oral presentation.
+* Aug 2021 - Jan 2022: Research Intern
+  * Azure Cognitive Service Research Group, Microsoft, mentored by Dr. <a href="https://nlp-yang.github.io/" style="color: rgb(203, 157, 255);">Yang Liu</a>, Dr. <a href="http://dong.li" style="color: rgb(203, 157, 255);">Li Dong</a> and Dr. <a href="https://sites.google.com/site/shuohangsite/" style="color: rgb(203, 157, 255);">Shuohang Wang</a>.
+  * One first-author paper accepted by Findings of EMNLP 2022.
 
 Service and leadership
 ======
