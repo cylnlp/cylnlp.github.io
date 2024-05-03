@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-The full publication list can be found on my [Google Scholar](https://scholar.google.co.uk/citations?user=8P23zSkAAAAJ).
+The full publication list can be found on my <a href="https://scholar.google.co.uk/citations?user=8P23zSkAAAAJ"   style="color: rgb(203, 157, 255);">Google Scholar</a>.
 
 Year 2023
 
