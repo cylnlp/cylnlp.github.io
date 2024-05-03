@@ -40,5 +40,6 @@ Workshop/Shared Task Organiser
 Co-Organiser of Open NLP Course for Chinese Students
 ======
 * <a href="https://space.bilibili.com/639900532?spm_id_from=333.337.0.0" style="color: rgb(203, 157, 255);">NLP Online Course</a>
-* Gained 9k subscriptions with over 240k views by Mar 2024.
+  * Gained 9k subscriptions with over 240k views by Mar 2024.
+
 
