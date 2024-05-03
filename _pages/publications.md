@@ -14,6 +14,5 @@ Zineng Tang, **Ziyi Yang**\*, Mahmoud Khademi, Yang Liu, Chenguang Zhu, Mohit Ba
 (\*: Corresponding authors)<br />
 [Project Page](https://codi-2.github.io/)
 
-* UniSumm and SummZoo: Unified Model and Diverse Benchmark for Few-shot Summarization.
-<br><u>Chen, Yulong</u>, Yang Liu, Ziyi Yang, Ruochen Xu, Chenguang Zhu, Michael Zeng, and Yue Zhang.
-<br><a title="arxiv" href="https://aclanthology.org/2023.acl-long.718/"  style="color: rgb(203, 157, 255);">[Anthology]</a>
+* <a title="arxiv" href="https://aclanthology.org/2023.acl-long.718/"  style="color: rgb(203, 157, 255);">UniSumm and SummZoo: Unified Model and Diverse Benchmark for Few-shot Summarization.</a>
+<br>**Chen, Yulong**, Yang Liu, Ziyi Yang, Ruochen Xu, Chenguang Zhu, Michael Zeng, and Yue Zhang.
