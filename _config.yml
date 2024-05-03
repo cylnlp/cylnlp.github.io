@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Yulong Chen | Cambridge"
+title                    : "Yulong Chen"
 title_separator          : "-"
 name                     : &name "Yulong Chen"
 description              : &description "personal description"
@@ -198,15 +198,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
