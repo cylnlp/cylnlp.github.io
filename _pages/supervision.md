@@ -10,7 +10,9 @@ If you are interested in working with me, please feel free to contact me with yo
 
 Research Interests
 -----------------
-Broadly speaking, I am interested in Natural Language Processing (NLP). Specific research of my interests include: Automatic Fact-Checking, Text Summarisation (particularly controllable text summarisation and dialogue summarisation), and Large Language Models (especially evaluating hallucination in LLMs and improving their factuality). Note that I will not supervise projects outside the scope of NLP/AI, but I am open to interdisciplinary projects such as AI for Science (AI4Science) and NLP for Education (NLP4Education).
+Broadly speaking, I am interested in Natural Language Processing (NLP). Specific research of my interests include: Automatic Fact-Checking, Text Summarisation (particularly controllable text summarisation and dialogue summarisation), and Large Language Models (especially evaluating hallucination in LLMs and improving their factuality). 
+
+Note that I will not supervise projects outside the scope of NLP/AI, but I am open to interdisciplinary projects such as AI for Science (AI4Science) and NLP for Education (NLP4Education).
 
 <!-- Potential Project Topics
 -----------------
