@@ -12,6 +12,10 @@ Year 2023
 * <a title="arxiv" href="https://aclanthology.org/2023.acl-long.718/"  style="color: rgb(203, 157, 255);">UniSumm and SummZoo: Unified Model and Diverse Benchmark for Few-shot Summarization.</a>
 <br>**Chen, Yulong**, Yang Liu, Ziyi Yang, Ruochen Xu, Chenguang Zhu, Michael Zeng, and Yue Zhang. <br>ACL 2023. 
 
+* <a title="arxiv" href="https://aclanthology.org/2023.acl-long.519/"  style="color: rgb(203, 157, 255);">Revisiting Cross-lingual Summarization: A Corpus-based Study and A New Benchmark with Improved Annotation.</a>
+<br>**Chen, Yulong**, Huajian Zhang, Yijie Zhou, Xuefeng Bai, Ming Zhong, Yueguan Wang, Jianhao Yan, Yafu Li, Jing Li, Xianchao Zhu and Yue Zhang.
+<br>ACL 2023. 
+
 * <a title="arxiv" href="https://aclanthology.org/2023.findings-emnlp.717/"  style="color: rgb(203, 157, 255);">Hi-ToM: A Benchmark for Evaluating Higher-Order Theory of Mind Reasoning in Large Language Models.</a>
 <br>Yufan Wu*, Yinghui He*, Yilin Jia, Rada Mihalcea, **Yulong Chen**, Naihao Deng.
 <br>Findings of EMNLP 2023. 
@@ -50,4 +54,3 @@ Year 2021
 <br>**Chen, Yulong**, Yang Liu, and Yue Zhang. 
 <br>Findings of ACL 2021. 
 
-x
