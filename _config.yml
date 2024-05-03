@@ -219,7 +219,7 @@ defaults:
       path: ""
       type: supervision
     values:
-      layout: supervision
+      layout: single
       author_profile: true
       share: true
 # Sass/SCSS
