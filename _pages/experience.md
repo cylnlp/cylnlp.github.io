@@ -11,7 +11,7 @@ redirect_from:
 
 Work Experience
 ====== -->
-* Jan 2024 - Now: Research Associate
+* Jan 2024 - Present: Research Associate
   * Department of Computer Science and Technology, University of Cambridge. Supervised by Prof. <a href="http://andreasvlachos.github.io" style="color: rgb(203, 157, 255);">Andreas Vlachos</a>.
 
 * Mar 2023 - Sep 2023: Research Intern
