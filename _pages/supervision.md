@@ -19,3 +19,10 @@ Note that I will not supervise projects outside the scope of NLP/AI, but I am op
 *  -->
 
 
+Previous Students
+-----------------
+* <a href="https://chenllliang.github.io/about/"   style="color: rgb(203, 157, 255);">Liang Chen> (Co-supervised with Prof. Yue Zhang. Undergraduate at Jinlin University [2018 - 2022]. Now D.Phil. student at Peking University)
+    
+ * <a href="https://cyber-e-j.github.io/"   style="color: rgb(203, 157, 255);">Yijie Zhou> (Co-supervised with Prof. Yue Zhang. Undergraduate at Zhejiang University [2020 - 2024]. Incoming D.Phil. student at University of Cambridge)
+
+ * Yinghao Yang (Co-supervised with Prof. Yue Zhang. Undergraduate at Westlake University [2022 - present])
