@@ -43,3 +43,8 @@ Co-Organiser of Open NLP Course for Chinese Students
   * Gained 9k subscriptions with over 240k views by Mar 2024.
 
 
+Awards
+======
+* Westlake Su-Wu Scholarship, 2023
+* Outstanding Students, Zhejiang University, 2021, 2022 and 2023
+* Outstanding Students, Wuhan University, 2014, 2015, and 2016
