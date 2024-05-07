@@ -27,6 +27,6 @@ Previous Students
     
 * <a href="https://cyber-e-j.github.io/"   style="color: rgb(203, 157, 255);">Yijie Zhou</a> (Co-supervised with Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> at Westlake University [2022 - 2023], working on cross-lingual dialogue summarisation. Undergraduate at Zhejiang University [2020 - 2024]. Incoming D.Phil. student at University of Cambridge)
 
-* Pingchuan Maestro Yan Yinghao Yang (Co-supervised with Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> at Westlake University [2023 - 2024], working on meta-evaluation of LLMs for MT. Undergraduate at University College London [2022 - present])
+* Pingchuan Maestro Yan (Co-supervised with Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> at Westlake University [2023 - 2024], working on meta-evaluation of LLMs for MT. Undergraduate at University College London [2022 - present])
 
 * Yinghao Yang (Co-supervised with Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> at Westlake University [2023 - 2024], working on evaluating LLMs. Undergraduate at Westlake University [2022 - present])
