@@ -19,14 +19,20 @@ Note that I will NOT supervise projects outside the scope of NLP/AI, but I am op
 *  -->
 
 
-Previous Students
+Students/Mentees
 -----------------
+I am fortunate to work/have worked with a number of amazing students, with many of whom have progressed to D.Phil. programmes at world-leading institutes.
+
+Current Students
+
+* Pingchuan Maestro Yan (Co-supervised with Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> at Westlake University [2023 - 2024], working on meta-evaluation of LLMs for MT. Undergraduate at University College London [2022 - present])
+
+Past Students
+
 * <a href="https://www.linkedin.com/in/shiduo-qian-a59261131/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ca" style="color: rgb(203, 157, 255);">Shiduo Qian</a> (Co-supervised with Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> at Westlake University [2020 - 2021], working on dialogue summarisation and financial data analysis. Undergraduate and postgraduate at Imperial College London [2017 - 2021]. Now Modeling/Forecasting Senior Analyst at TD Bank. Incoming M.Sc. student at Georgia Institute of Technology)
 
 * <a href="https://chenllliang.github.io/about/"   style="color: rgb(203, 157, 255);">Liang Chen</a> (Co-supervised with Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> at Westlake University [2020 - 2021], working on dialogue summarisation. Undergraduate at Jinlin University [2018 - 2022]. Now D.Phil. student at Peking University)
     
 * <a href="https://cyber-e-j.github.io/"   style="color: rgb(203, 157, 255);">Yijie Zhou</a> (Co-supervised with Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> at Westlake University [2022 - 2023], working on cross-lingual dialogue summarisation. Undergraduate at Zhejiang University [2020 - 2024]. Incoming D.Phil. student at University of Cambridge)
-
-* Pingchuan Maestro Yan (Co-supervised with Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> at Westlake University [2023 - 2024], working on meta-evaluation of LLMs for MT. Undergraduate at University College London [2022 - present])
 
 * Yinghao Yang (Co-supervised with Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> at Westlake University [2023 - 2024], working on evaluating LLMs. Undergraduate at Westlake University [2022 - present])
