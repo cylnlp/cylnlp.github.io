@@ -17,6 +17,6 @@ Email: XYZ, where X=yc632, Y=@ and Z=cam.ac.uk
 
 News
 ======
-* 04/2024: Please check our next <a href="https://fever.ai/" style="color: rgb(203, 157, 255);">FEVER workshop</a> (at <a href="https://2024.emnlp.org/" style="color: rgb(203, 157, 255);">EMNLP 2024</a>) and new shared task!
+* Apr 2024: Please check our next <a href="https://fever.ai/" style="color: rgb(203, 157, 255);">FEVER workshop</a> (at <a href="https://2024.emnlp.org/" style="color: rgb(203, 157, 255);">EMNLP 2024</a>) and new shared task!
 
-* 01/2024: Invited to serve as Action Editor for ARR 2024/Area Chair at ACL 2024.
+* Jan 2024: Invited to serve as Action Editor for ARR 2024/Area Chair at ACL 2024.
