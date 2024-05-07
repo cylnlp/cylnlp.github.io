@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 I will be supervising Part II, Part III, and M.Phil. projects for students currently at Cambridge.
-If you are interested in working with me, please feel free to email me with your <span style="color: rgb(203, 157, 255);">CV</span> and <span style="color: rgb(203, 157, 255);">transcript</span>. Before sending the email, please take a look at my <a href="https://scholar.google.co.uk/citations?user=8P23zSkAAAAJ"   style="color: rgb(203, 157, 255);">Google Scholar</a> to better understand my research area.
+If you are interested in working with me, please feel free to email me with your <span style="color: rgb(203, 157, 255);">CV</span> and <span style="color: rgb(203, 157, 255);">transcript</span> (email: XYZ, where X=yc632, Y=@ and Z=cam.ac.uk). Before sending the email, please take a look at my <a href="https://scholar.google.co.uk/citations?user=8P23zSkAAAAJ"   style="color: rgb(203, 157, 255);">Google Scholar</a> to better understand my research area.
 
 Research Interests
 -----------------
-Broadly speaking, I am interested in Natural Language Processing (NLP). Specific research of my interests include: Automatic Fact-Checking, Text Summarisation (particularly controllable text summarisation and dialogue summarisation), and Large Language Models (especially evaluating hallucination in LLMs and improving their factuality). 
+Broadly speaking, I am interested in Natural Language Processing (NLP). Specific research of my interests include: Automatic Fact-Checking, Text Summarisation (particularly controllable text summarisation and dialogue summarisation), and Large Language Models (in particular, evaluating hallucination in LLMs and improving their factuality). 
 
 Note that I will NOT supervise projects outside the scope of NLP/AI, but I am open to interdisciplinary projects such as AI for Science (AI4Science) and NLP for Education (NLP4Education).
 
@@ -23,11 +23,11 @@ Students/Mentees
 -----------------
 I am fortunate to work/have worked with a number of amazing students, with many of whom have progressed to D.Phil. programmes at world-leading institutes.
 
-Current Students
+### Current Students
 
 * Pingchuan Maestro Yan (Co-supervised with Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> at Westlake University [2023 - present], working on meta-evaluation of LLMs for MT. Undergraduate at University College London [2022 - present])
 
-Past Students
+### Past Students
 
 * <a href="https://www.linkedin.com/in/shiduo-qian-a59261131/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ca" style="color: rgb(203, 157, 255);">Shiduo Qian</a> (Co-supervised with Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> at Westlake University [2020 - 2021], working on dialogue summarisation and financial data analysis. Undergraduate and postgraduate at Imperial College London [2017 - 2021]. Now Modeling/Forecasting Senior Analyst at TD Bank. Incoming M.Sc. student at Georgia Institute of Technology)
 
