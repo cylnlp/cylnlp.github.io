@@ -25,7 +25,7 @@ I am fortunate to work/have worked with a number of amazing students, with many 
 
 ### Current Students
 
-* Pingchuan Maestro Yan (Co-supervised with Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> at Westlake University [Jul 2023 - present], working on meta-evaluation of LLMs for MT. Undergraduate at University College London [2022 - present])
+* Pingchuan (Maestro) Yan (Co-supervised with Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> at Westlake University [Jul 2023 - present], working on meta-evaluation of LLMs for MT. Undergraduate at University College London [2022 - present])
 
 ### Past Students
 
