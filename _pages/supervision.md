@@ -5,7 +5,7 @@ permalink: /supervision/
 author_profile: true
 ---
 
-I will be supervising Part II, Part III, and MPhil projects for students currently in Cambridge.
+I will be supervising Part II, Part III, and M.Phil. projects for students currently in Cambridge.
 If you are interested in working with me, please feel free to contact me with your **CV** and **transcript**. Before sending the email, please take a look at my <a href="https://scholar.google.co.uk/citations?user=8P23zSkAAAAJ"   style="color: rgb(203, 157, 255);">Google Scholar</a> to better understand my research area.
 
 Research Interests
