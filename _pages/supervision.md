@@ -17,7 +17,7 @@ Note that I will NOT supervise projects outside the scope of NLP/AI, but I am op
 Potential Topics
 -----------------
 There are some potential topics for part II projects.
-* <span style="color: rgb(203, 157, 255);font-style:bold">Entity and Relatiion Extraction based on Hearst Pattern</span> : <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a>
+* <span style="color: rgb(203, 157, 255);"><strong>Entity and Relation Extraction based on Hearst Pattern</strong></span> : <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a>
 * Abstractive Dialogue Summarization.
 
 
