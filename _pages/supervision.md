@@ -14,9 +14,12 @@ Broadly speaking, I am interested in Natural Language Processing (NLP). Specific
 
 Note that I will NOT supervise projects outside the scope of NLP/AI, but I am open to interdisciplinary projects such as AI for Science (AI4Science) and NLP for Education (NLP4Education).
 
-<!-- Potential Project Topics
+Potential Topics
 -----------------
-*  -->
+There are some potential topics for part II projects.
+* **<span style="color: rgb(203, 157, 255);">Entity and Relatiion Extraction based on Hearst Pattern</span> **: <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a>
+* Abstractive Dialogue Summarization.
+
 
 
 Students/Mentees
