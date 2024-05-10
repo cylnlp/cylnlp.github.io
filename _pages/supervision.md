@@ -16,8 +16,10 @@ Note that I will NOT supervise projects outside the scope of NLP/AI, but I am op
 
 Potential Topics
 -----------------
-There are some potential topics for part II projects.
-* <span style="color: rgb(203, 157, 255);"><strong>Entity and Relation Extraction based on Hearst Pattern</strong></span> : <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a>
+There are some potential topics for Part II projects.
+<!-- * <span style="color: rgb(203, 157, 255);"><strong>Entity and Relation Extraction based on Hearst Pattern</strong></span> : <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> -->
+* **Information Extraction based on Hearst Pattern**: Extracting entities, events and their relations from texts is useful. However, training neural models requires large annotation, which is costly. <a href="https://aclanthology.org/C92-2082/" style="color: rgb(203, 157, 255);">Hearst Pattern</a> is an unsupervised method that can iteratively mine entities or events under a specific relation, and patterns that connects entities or events under the relation. To do this project, students need to have basic understanding of NLP knowledge, and have a strong Python programming skill. Also, they should be familiar with NLP tools, such as parsers.
+
 * Abstractive Dialogue Summarization.
 
 
