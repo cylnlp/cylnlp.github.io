@@ -24,7 +24,7 @@ There are some potential topics for Part II projects.
 
 * **Question Answering using LLMs**: Large Language Models (LLMs) have shown strong abilities in NLP tasks in a zero-shot setting. By directly prompting LLMs with the input, LLMs can generate the answers to it. Previous work has shown that more advanced technologies such as Chain-of-Thoughts prompting and <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/271db9922b8d1f4dd7aaef84ed5ac703-Abstract-Conference.html" style="color: rgb(203, 157, 255);">Tree-of-Thoughts prompting</a> can further boost the performance. In this project, students will be asked to implement tree-of-thoughts for LLMs (LlaMA-based models) on Question Answering (QA) tasks. Students are required to have a strong understanding of NLP, and a strong Python programing skill. Also, students should have the experience of using large language models, in particular LlaMA (note not OpenAI API). If you want to do this project as your Part II project, please make sure that you have strong relevant experience.
   
-For Part III and M.Phil. projects, they are more open research questions. You can either advance above projects or propose with your own idea. Please drop me an email for further discussion.
+For Part III and M.Phil. projects, they are more open research questions. You can either advance above projects or propose your own idea. Please drop me an email for further discussion.
 
 
 Students/Mentees
