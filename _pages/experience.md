@@ -28,7 +28,7 @@ Work Experience
 
 Service and Leadership
 ======
-* Program Committee Member/Reviewer for ACL (2022, 2023, 2024 [<b>area chair</b> for generation and summarization]), NeurIPS (2022, 2023, 2024), ICML (2023, 2024), EMNLP (2021, 2022, 2023), ICLR (2024), COLM (2024), NAACL (2021, 2024), COLING (2023, 2024), NLPCC (2019, 2021, 2022, 2023)
+* Program Committee Member/Reviewer for ACL (2022, 2023, 2024 [<b>area chair</b> for generation and summarization]), NeurIPS (2022, 2023, 2024), ICML (2023, 2024), ICLR (2024), EMNLP (2021, 2022, 2023), COLM (2024), NAACL (2021, 2024), COLING (2023, 2024), NLPCC (2019, 2021, 2022, 2023), CCL (2024)
 
 * Journal Editor and Reviewer for ACL Rowling Review, ACM Transactions on Asian and Low-Resource Languages, Natural Language Processing (Natural Language Engineering), Neurocomputing
 
