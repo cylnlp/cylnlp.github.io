@@ -1,21 +1,10 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
 
-Microsoft Machine Learning, AI, and Data Sciences Conference (MLADS), Nov 15, 2022 <br />
-Topic: Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners <br />
+* May 2024: ''Revealing Limitations in LLMs via Self-Challenging'' at <a href="http://cs.hitsz.edu.cn/index.htm" style="color: rgb(203, 157, 255);">NLP Group</a>, HIT (Shenzhen) 
 
-AI-at-SLAC Seminar, Stanford SLAC, Jun 25, 2021 <br />
-Topic: [Deep Learning For Anomaly Detection](https://ml.slac.stanford.edu/ai-seminar)<br />
-
-Thermal & Fluid Sciences Industrial Affiliates and Sponsors Conference, 2019 <br />
-Topic: [Anomaly Detection Using Generative Adversarial Networks](https://web.stanford.edu/group/tfsa/cgi-bin/tfsa-wp/conference/) <br />
-
-Thermal & Fluid Sciences Industrial Affiliates and Sponsors Conference, 2018 <br />
-Topic: [Using Deep Learning for the solution of PDEs](https://web.stanford.edu/group/tfsa/cgi-bin/tfsa-wp/conference/) <br />
-
-Bay Area Scientific Computing Day, 2018 <br />
-Topic: [Using Deep Learning for the solution of PDEs](https://sites.google.com/view/bascd2018/speakers) <br />
+* June 2023: ''Unified Model and Diverse Benchmark for Few-shot Summarization'' at <a href="https://ds.ibs.re.kr/" style="color: rgb(203, 157, 255);">IBS Data Science Group</a>, KAIST
