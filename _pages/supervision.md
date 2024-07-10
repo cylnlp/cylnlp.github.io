@@ -54,4 +54,4 @@ I am fortunate to work/have worked with a number of amazing students, with many 
 
 * Yinghao Yang (Co-supervised with Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> at Westlake University [Jul 2023 - Dec 2023], working on evaluating LLMs. Undergraduate at Westlake University [2023 - present])
 
-* Pingchuan (Maestro) Yan (Co-supervised with Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> at Westlake University [Jul 2023 - Jul Dec 2023], working on meta-evaluation of LLMs for MT. Undergraduate at University College London [2023 - present])
+* Pingchuan (Maestro) Yan (Co-supervised with Prof. <a href="https://frcchang.github.io/" style="color: rgb(203, 157, 255);">Yue Zhang</a> at Westlake University [Jul 2023 - Dec 2023], working on meta-evaluation of LLMs for MT. Undergraduate at University College London [2023 - present])
