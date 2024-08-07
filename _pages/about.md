@@ -13,6 +13,8 @@ During my doctoral and master studies, I had the fortune to collaborate with exc
 
 <span style="font-style:italic">For undergraduate and master students, who are <span style="color: rgb(203, 157, 255);">currently at Cambridge</span> and would like to do your Part II, Part III, and M.Phil. projects with me, please read the <a href="https://cylnlp.github.io/supervision/" style="color: rgb(203, 157, 255);">Supervision</a> page.</span>
 
+I am a huge fan of <a href="https://x.com/Adele" style="color: rgb(203, 157, 255);">Adele</a>. My profile photo is me and Adele when I attended the first show of Adele in Munich. This pic is from their <a href = "https://x.com/AdeleAccess/status/1820480588497002554" style="color: rgb(203, 157, 255);">official video</a> for DAY 1 show - you can catch a glimpse of me at the 39-second of the video.
+
 Email: XYZ, where X=yc632, Y=@ and Z=cam.ac.uk
 
 News
