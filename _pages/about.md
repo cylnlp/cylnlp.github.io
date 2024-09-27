@@ -21,8 +21,8 @@ Email: XYZ, where X=yc632, Y=@ and Z=cam.ac.uk
 News
 ======
 
-* Sep 2024: I am appointed as College Research Associate at <a href="https://www.fitz.cam.ac.uk/" style="color: rgb(203, 157, 255);">Fitzwilliam College</a>!
-* 
+* Sep 2024: I am appointed as a College Research Associate at <a href="https://www.fitz.cam.ac.uk/" style="color: rgb(203, 157, 255);">Fitzwilliam College</a>!
+
 * Jul 2024: New paper accepted by <a href="https://colmweb.org/index.html" style="color: rgb(203, 157, 255);">COLM</a> 2024!
 
 * Jun 2024: Invited to serve as Action Editor for ARR 2024/Area Chair for EMNLP 2024.
