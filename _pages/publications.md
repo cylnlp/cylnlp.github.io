@@ -7,6 +7,14 @@ author_profile: true
 
 The full publication list can be found on my <a href="https://scholar.google.co.uk/citations?user=8P23zSkAAAAJ"   style="color: rgb(203, 157, 255);">Google Scholar</a>.
 
+Year 2024
+
+* <a title="arxiv" href="https://www.arxiv.org/abs/2408.08978"  style="color: rgb(203, 157, 255);">See What LLMs Cannot Answer: A Self-Challenge Framework for Uncovering LLM Weaknesses.</a>
+<br>**Chen, Yulong**, Yang Liu, Jianhao Yan, Xuefeng Bai, Ming Zhong, Yinghao Yang, Ziyi Yang, Chenguang Zhu, and Yue Zhang. <br>COLM 2024. 
+
+* Cross-domain Constituency Parsing by Leveraging Heterogeneous Data. 
+<br>Guo, Peimin, **Yulong Chen**, Meishan Zhang, Jianling Li, Min Zhang, and Yue Zhang.<br> JAIR 2024.
+
 Year 2023
 
 * <a title="arxiv" href="https://aclanthology.org/2023.acl-long.718/"  style="color: rgb(203, 157, 255);">UniSumm and SummZoo: Unified Model and Diverse Benchmark for Few-shot Summarization.</a>
