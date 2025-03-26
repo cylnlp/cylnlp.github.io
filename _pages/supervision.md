@@ -38,7 +38,10 @@ Students/Mentees
 -----------------
 I am fortunate to work/have worked with a number of amazing students, with many of whom have progressed to D.Phil. programmes at world-leading institutes.
 
-<!-- ### Current Students -->
+### Current Students
+
+* Austin George at the University of Cambridge [Aug 2024 - present]. Part II project on Watermark detection and evaluation.
+
 
 ### Past Students
 
